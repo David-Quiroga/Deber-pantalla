@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
               appBar: AppBar(
         centerTitle: true,
         title: const Text(
-          'Flutter: GoogleDroids.com',
+          'Sitio para bodas',
           style: TextStyle(fontSize: 35.0, fontFamily: 'cursive', color: Colors.black),
           textAlign: TextAlign.start,
         ),
